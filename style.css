@@ -20,3 +20,9 @@ color: blue;
     height: 15px;
     width: 20px;
 }
+
+
+.log span {
+    background-color: rgb(#808080);
+    scrollbar-highlight-color: bisque;
+}
