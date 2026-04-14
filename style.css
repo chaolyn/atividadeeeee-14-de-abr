@@ -5,7 +5,15 @@
 
 body {
     background-color: bisque;
+    align-items: center;
+    text-align: center;
 }
+
+.log h1, p {
+color: blue;
+}
+
+
 .log {
     align-items: center;
     border-radius: 23px;
